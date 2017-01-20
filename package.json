@@ -1,0 +1,16 @@
+{
+  "name": "fans-club",
+  "version": "1.0.0",
+  "description": "fans club",
+  "main": "server.js",
+  "author": "Qiongrong Jiang",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "random-number": "0.0.7",
+    "socket.io": "^1.7.2",
+    "three": "^0.84.0",
+    "tracer": "^0.8.7"
+  }
+}

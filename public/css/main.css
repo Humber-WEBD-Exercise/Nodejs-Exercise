@@ -1,0 +1,26 @@
+*{
+  font-family: 'VT323', monospace;
+}
+p{
+  font-size: 24px;
+}
+.main-content{
+  width: 400px;
+  margin: 150px auto;
+  text-align: center;
+  position: relative;
+}
+.band-image{
+  width: 250px;
+  border-radius: 5px;
+}
+.update-btn{
+  border: none;
+  outline: none;
+  background: #ece8d2;
+  padding: 5px 20px;
+  font-size: 18px;
+  border-radius: 3px;
+  cursor: pointer;
+  border: 1px solid #b3b09f;
+}
