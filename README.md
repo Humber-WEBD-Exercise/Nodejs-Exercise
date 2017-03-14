@@ -1,1 +1,3 @@
-# Mini-Challenge1
+# Nodejs-Exercise
+
+Simple exercise with socket.io, random-number.
